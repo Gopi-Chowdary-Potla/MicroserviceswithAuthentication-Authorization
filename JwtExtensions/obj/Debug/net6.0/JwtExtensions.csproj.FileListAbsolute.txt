@@ -1,0 +1,12 @@
+C:\Users\gopi.p\Documents\Practicing\MicroservicesProject\JwtExtensions\bin\Debug\net6.0\JwtExtensions.deps.json
+C:\Users\gopi.p\Documents\Practicing\MicroservicesProject\JwtExtensions\bin\Debug\net6.0\JwtExtensions.dll
+C:\Users\gopi.p\Documents\Practicing\MicroservicesProject\JwtExtensions\bin\Debug\net6.0\JwtExtensions.pdb
+C:\Users\gopi.p\Documents\Practicing\MicroservicesProject\JwtExtensions\obj\Debug\net6.0\JwtExtensions.csproj.AssemblyReference.cache
+C:\Users\gopi.p\Documents\Practicing\MicroservicesProject\JwtExtensions\obj\Debug\net6.0\JwtExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gopi.p\Documents\Practicing\MicroservicesProject\JwtExtensions\obj\Debug\net6.0\JwtExtensions.AssemblyInfoInputs.cache
+C:\Users\gopi.p\Documents\Practicing\MicroservicesProject\JwtExtensions\obj\Debug\net6.0\JwtExtensions.AssemblyInfo.cs
+C:\Users\gopi.p\Documents\Practicing\MicroservicesProject\JwtExtensions\obj\Debug\net6.0\JwtExtensions.csproj.CoreCompileInputs.cache
+C:\Users\gopi.p\Documents\Practicing\MicroservicesProject\JwtExtensions\obj\Debug\net6.0\JwtExtensions.dll
+C:\Users\gopi.p\Documents\Practicing\MicroservicesProject\JwtExtensions\obj\Debug\net6.0\refint\JwtExtensions.dll
+C:\Users\gopi.p\Documents\Practicing\MicroservicesProject\JwtExtensions\obj\Debug\net6.0\JwtExtensions.pdb
+C:\Users\gopi.p\Documents\Practicing\MicroservicesProject\JwtExtensions\obj\Debug\net6.0\ref\JwtExtensions.dll
